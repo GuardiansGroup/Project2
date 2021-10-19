@@ -5,3 +5,5 @@ Scarlet Mejia - Contribution - Created source codes LinkedStack.java and LinkedS
 
 
 Javadoc link: file:///C:/Users/danie/OneDrive/Desktop/Project2/doc/allclasses-index.html
+
+youtube vid url: https://youtu.be/4n76PbK0BJo
